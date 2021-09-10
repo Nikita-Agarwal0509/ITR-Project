@@ -1,0 +1,25 @@
+# DATA FILE HEADER #
+Site            : GMRT
+Observer        : RAMESH
+Proposal        : PULSAR
+Array Mode      : PA
+Observing Mode  : Search
+Date            : X
+Num Antennas    : 11
+Antenna List    : C00 C01 C03 C04 C05 C06 C08 C09 C10 C11 C12 
+Num Channels    : 2048
+Channel width   : -0.09765625 
+Frequency Ch.1  : 300.000000
+Sampling Time   : 655.36
+Num bits/sample : 16
+Data Format     : integer binary, little endian
+Polarizations   : Total I
+MJD             : Z
+UTC             : Y 
+Source          : J0034-0721
+Coordinates     : 00:34:00.00, -07:21:00.00 
+Coordinate Sys  : J2000
+Drift Rate      : 0.0, 0.0
+Obs. Length     : 600
+Bad Channels    : 2:1-40,2000-2048
+Bit shift value : 1
